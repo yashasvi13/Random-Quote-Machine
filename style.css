@@ -1,0 +1,55 @@
+body{
+  position:relative;
+  margin=0;
+  padding=0;
+  background-image:url("https://newevolutiondesigns.com/images/freebies/city-wallpaper-18.jpg");
+  background-size: 100% 100%;
+}
+h1{
+  padding-top:50px;
+}
+ul{
+  margin-top:210px;
+  
+}
+ul li{
+  padding:20px;
+  display:inline;
+  
+  }
+#quote{
+  font-size:30px;
+  text-align:center;
+  font-family:Goudy Old Style;
+  font-weight:500;
+}
+.qcont{
+  background-color:rgba(220,220,220,.20);
+  border-radius:30px;
+  margin-top:60px;
+  padding:20px;
+ }
+#author{
+  margin-left:600px;
+  font-family:Goudy Old Style;
+  font-size:20px;
+  font-weight:400;
+  
+}
+h1{
+  color:#333;
+  font-size:50px;
+  font-weight:700;
+  font-family:Futura;
+  
+}
+.btn{
+  color:#333;
+  background-color:#e2c1c1;
+  background: rgba(240, 204, 204, 0.9);
+  border-radius:6px;
+}
+.btn:hover{
+  background-color:#e6aaaa;
+  opacity:0.8;
+}
